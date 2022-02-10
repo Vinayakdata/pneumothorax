@@ -3,5 +3,5 @@ Deep Learning, and Computer Vision.
 Techniques Used :
 --> Autoencoders
 --> CNN Architectures
---> Neural Activation
+--> Neural Network Activation
 --> Maximum Equity Function Value 
